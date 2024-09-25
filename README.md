@@ -262,3 +262,5 @@ The data for this workshop was derived from the following sources:
 * Buildings: <https://data.gis.ny.gov/datasets/sharegisny::nys-building-footprints-2/explore?location=40.564263%2C-73.968428%2C13.97>
 * Historical map: <https://mapcollections.brooklynhistory.org/map/maps-of-coney-island-1905/>
 
+Additional data for New York City can be found at:
+* <https://opendata.cityofnewyork.us/>
